@@ -1,0 +1,20 @@
+h1{
+      background-color: #E153EB;
+    }
+    div{
+      height: 10px;
+      margin: 10px;
+      padding: 10px;
+    }
+    
+    .style{
+      height: 60px;
+    }
+     #footer{
+        /*border: 5px solid black;*/
+        padding: 5px;
+        background-color: #D314E1;
+       }
+       body{
+      background-color: #20AFDB;
+    }
